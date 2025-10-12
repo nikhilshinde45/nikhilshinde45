@@ -78,6 +78,13 @@ const getProfile = () => {
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 </p>
 
+📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilshinde45&show_icons=true&theme=dark&include_all_commits=true&line_height=21" alt="GitHub Stats" height="195px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilshinde45&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" height="195px"/>
+</p>
+
 
 
 
