@@ -40,7 +40,7 @@ const getProfile = () => {
   </a>
 
   <a href="mailto:nikhilshinde451807@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" />
+    <img src="https://img.shields.io/badge/nikhilshinde451807@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" />
   </a>
 
   <a href="https://github.com/nikhilshinde45">
