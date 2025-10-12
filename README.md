@@ -15,7 +15,7 @@ const getProfile = () => {
         currentFocus: [
             "Building scalable backend services (Node.js/Express.js)",
             "System Design principles for distributed systems",
-            "DSA and Problme Solving"
+            "DSA and Problm Solving"
         ],
         
         technologies: {
@@ -30,6 +30,24 @@ const getProfile = () => {
         motto: "Solve. Code.  Learn. Scale.",
     };
 };
+
+````````````````````
+
+🌐 Connect With Me & Collaborate
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-shinde1740">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
+  </a>
+
+  <a href="mailto:nikhilshinde451807@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Logo" />
+  </a>
+
+  <a href="https://github.com/nikhilshinde45">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo" />
+  </a>
+</p>
+
 
 
 
