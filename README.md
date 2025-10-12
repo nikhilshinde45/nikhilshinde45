@@ -11,38 +11,19 @@ const nikhil = {
     
     currentFocus: [
         "Building scalable backend services (Node.js/Express.js)",
-        "System Design principles for distributed systems",
-        "Applying advanced DSA for performance optimization"
+        "System Design principles for distributed systems"
+        
     ],
     
-    askMeAbout: [
-        "Backend Development (APIs, Microservices, Infrastructure)",
-        "Dynamic Programming and Graph Algorithms",
-        "Database Design and Query Optimization (SQL/NoSQL)",
-        "Problem Solving and Competitive Programming"
-    ],
+
     
     technologies: {
-        frontEnd: ["React.js", "Redux", "CSS", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express.js", "FastAPI", "Flask"],
-        databases: ["MongoDB", "PostgreSQL", "SQL"],
-        languages: ["C++", "JavaScript", "Python", "Java", "SQL"]
+        frontEnd: ["React.js", "Redux", "CSS", ],
+        backEnd: ["Node.js", "Express.js", 'multer", "Cloudinary"],
+        databases: ["MongoDB", "SQL"],
+        languages: ["C++", "JavaScript", "Java", "SQL"]
     },
     
     motto: "Solve. Design. Optimize. Scale.",
 };
 
-<!--
-**nikhilshinde45/nikhilshinde45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
