@@ -2,6 +2,7 @@
 
 
 🚀 **About Me**
+
 I'm a dedicated **Backend Developer** specializing in building robust, scalable, and highly performant APIs and services. My core strength lies in **Data Structures and Algorithms**, which I leverage to tackle complex challenges and ensure efficient, optimized application logic. I thrive on translating business requirements into elegant, fast, and reliable backend solutions.
 
 <!--
