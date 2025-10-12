@@ -1,9 +1,10 @@
 ## Hi there, I'm Nikhil Shinde! 👋
+______________
 
 🚀 About Me 
 
 I'm a dedicated **Backend Developer** focused on engineering robust and scalable services. Leveraging a **strong foundation in Data Structures and Algorithms (DSA)**, I specialize in crafting **efficient, performance-tuned** solutions and tackling complex problem-solving challenges.
-
+___________________
 ```javascript
 
 const getProfile = () => {
@@ -32,7 +33,7 @@ const getProfile = () => {
 };
 
 ````````````````````
-
+__________
 🌐 Connect With Me & Collaborate
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-shinde1740">
@@ -47,7 +48,7 @@ const getProfile = () => {
     <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo" />
   </a>
 </p>
-
+_____________________
 🔧 Technology Stack & Tools
 
 <p align="center">
