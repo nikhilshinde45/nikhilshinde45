@@ -21,7 +21,7 @@ const getProfile = () => {
         
         technologies: {
             frontEnd: ["React.js", "Redux", "CSS"],
-            backEnd: ["Node.js", "Express.js", "FastAPI", "Flask"],
+            backEnd: ["Node.js", "Express.js"],
             databases: ["MongoDB", "PostgreSQL", "SQL"],
             core_subjects: ["Operating Systems (OS)", "DBMS", "OOPS"], 
             languages: ["C++", "JavaScript", "Python", "Java", "SQL"],
@@ -48,7 +48,7 @@ __________
     <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo" />
   </a>
 </p>
-_____________________
+------------------------------------------------------------------------------------
 
 
 🔧 Technology Stack & Tools
