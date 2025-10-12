@@ -24,9 +24,9 @@ const getProfile = () => {
             databases: ["MongoDB", "PostgreSQL", "SQL"],
             core_subjects: ["Operating Systems (OS)", "DBMS", "OOPS"], 
             languages: ["C++", "JavaScript", "Python", "Java", "SQL"],
-            versionControl: ["Git", "GitHub Actions"]
+            versionControl: ["Git", "GitHub"]
         },
         
-        motto: "Solve. Design. Optimize. Scale.",
+        motto: "Solve. Code.  Learn. Scale.",
     };
 };
