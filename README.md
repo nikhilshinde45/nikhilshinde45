@@ -5,6 +5,23 @@
 
 I'm a dedicated **Backend Developer** focused on engineering robust and scalable services. Leveraging a **strong foundation in Data Structures and Algorithms (DSA)**, I specialize in crafting **efficient, performance-tuned** solutions and tackling complex problem-solving challenges.
 
+const pratik = {
+    pronouns: "He" | "Him",
+    location: "Pune, India",
+    education: "B.E. IT @ PICT",
+    currentFocus: ["Backend Development", "Problem Solving", "System Design"],
+    
+    technologies: {
+        frontEnd: ["React.js", "Redux", "CSS"],
+        backEnd: ["Node.js", "Express.js"],
+        databases: ["MongoDB", "SQL"],
+       
+        languages: ["C++", "JavaScript", "Java", "SQL"]
+    },
+   
+    motto: "Solve. Code. Learn. Build. Repeat."
+};
+
 <!--
 **nikhilshinde45/nikhilshinde45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
