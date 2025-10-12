@@ -1,25 +1,35 @@
 ## Hi there, I'm Nikhil Shinde! 👋
 
-
 🚀 **About Me**
-
 I'm a dedicated **Backend Developer** focused on engineering robust and scalable services. Leveraging a **strong foundation in Data Structures and Algorithms (DSA)**, I specialize in crafting **efficient, performance-tuned** solutions and tackling complex problem-solving challenges.
 
-const pratik = {
-    pronouns: "He" | "Him",
+```javascript
+const nikhil = {
+    pronouns: "He | Him",
     location: "Pune, India",
     education: "B.E. IT @ PICT",
-    currentFocus: ["Backend Development", "Problem Solving", "System Design"],
+    
+    currentFocus: [
+        "Building scalable backend services (Node.js/Express.js)",
+        "System Design principles for distributed systems",
+        "Applying advanced DSA for performance optimization"
+    ],
+    
+    askMeAbout: [
+        "Backend Development (APIs, Microservices, Infrastructure)",
+        "Dynamic Programming and Graph Algorithms",
+        "Database Design and Query Optimization (SQL/NoSQL)",
+        "Problem Solving and Competitive Programming"
+    ],
     
     technologies: {
-        frontEnd: ["React.js", "Redux", "CSS"],
-        backEnd: ["Node.js", "Express.js"],
-        databases: ["MongoDB", "SQL"],
-       
-        languages: ["C++", "JavaScript", "Java", "SQL"]
+        frontEnd: ["React.js", "Redux", "CSS", "Tailwind CSS"],
+        backEnd: ["Node.js", "Express.js", "FastAPI", "Flask"],
+        databases: ["MongoDB", "PostgreSQL", "SQL"],
+        languages: ["C++", "JavaScript", "Python", "Java", "SQL"]
     },
-   
-    motto: "Solve. Code. Learn. Build. Repeat."
+    
+    motto: "Solve. Design. Optimize. Scale.",
 };
 
 <!--
