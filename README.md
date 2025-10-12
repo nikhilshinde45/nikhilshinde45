@@ -1,31 +1,31 @@
 ## Hi there, I'm Nikhil Shinde! 👋
 
-🚀 **About Me**
-
+🚀 **About Me Myself**
 I'm a dedicated **Backend Developer** focused on engineering robust and scalable services. Leveraging a **strong foundation in Data Structures and Algorithms (DSA)**, I specialize in crafting **efficient, performance-tuned** solutions and tackling complex problem-solving challenges.
 
 ```javascript
-const nikhil = {
-    pronouns: "He | Him",
-    location: "Pune, India",
-    education: "B.E. IT @ PICT",
-    
-    currentFocus: [
-        "Building scalable backend services (Node.js/Express.js)",
-        "System Design principles for distributed systems",
-        "DSA and problme solving"
+
+const getProfile = () => {
+    return {
+        pronouns: "He | Him",
+        location: "Pune, India",
+        education: "B.E. IT @ PICT",
         
-    ],
-    
-
-    technologies: {
-        frontEnd: ["React.js", "Redux", "CSS", ],
-        backEnd: ["Node.js", "Express.js", 'multer", "Cloudinary"],
-        databases: ["MongoDB", "SQL"],
-        core_subjects: ["Operating Systems (OS)", "DBMS", "OOPS"],
-        languages: ["C++", "JavaScript", "Java", "SQL"]
-    },
-    
-    motto: "Solve. Design. Optimize. Scale.",
+        currentFocus: [
+            "Building scalable backend services (Node.js/Express.js)",
+            "System Design principles for distributed systems",
+            "DSA and Problme Solving"
+        ],
+        
+        technologies: {
+            frontEnd: ["React.js", "Redux", "CSS"],
+            backEnd: ["Node.js", "Express.js", "FastAPI", "Flask"],
+            databases: ["MongoDB", "PostgreSQL", "SQL"],
+            core_subjects: ["Operating Systems (OS)", "DBMS", "OOPS"], 
+            languages: ["C++", "JavaScript", "Python", "Java", "SQL"],
+            versionControl: ["Git", "GitHub Actions"]
+        },
+        
+        motto: "Solve. Design. Optimize. Scale.",
+    };
 };
-
