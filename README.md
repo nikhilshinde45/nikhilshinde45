@@ -32,18 +32,4 @@ const getProfile = () => {
 };
 
 
-🌐 Connect With Me & Collaborate
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhil-shinde1740">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=social&logo=linkedin" alt="LinkedIn Logo" />
-  </a>
-  
-  <a href="mailto:nikhilshinde451807@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836.svg?style=social&logo=gmail" alt="Gmail Logo" />
-  </a>
-  
-  <a href="https://github.com/nikhilshinde45">
-    <img src="https://img.shields.io/badge/github-100000.svg?style=social&logo=github" alt="GitHub Logo" />
-  </a>
-</p>
 
