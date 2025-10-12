@@ -3,7 +3,6 @@
 
 🚀 **About Me**
 
-🚀 **About Me**
 I'm a dedicated **Backend Developer** focused on engineering robust and scalable services. Leveraging a **strong foundation in Data Structures and Algorithms (DSA)**, I specialize in crafting **efficient, performance-tuned** solutions and tackling complex problem-solving challenges.
 
 <!--
