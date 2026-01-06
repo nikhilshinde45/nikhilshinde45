@@ -53,8 +53,7 @@ __________
 ___________________
 🔧 Technology Stack & Tools
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,js,java,mysql,react,html,css,redux,nodejs,mongodb,github,vscode,docker&perline=8" /> </p>
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,js,java,mysql,react,html,css,redux,nodejs,mongodb,github,vscode,docker,postman&perline=8" /> </p>
 
 
 
