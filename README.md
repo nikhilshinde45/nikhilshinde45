@@ -22,10 +22,10 @@ const getProfile = () => {
         technologies: {
             frontEnd: ["React.js", "Redux", "CSS"],
             backEnd: ["Node.js", "Express.js"],
-            databases: ["MongoDB", "PostgreSQL", "SQL"],
+            databases: ["MongoDB", "Mongoose", "SQL"],
             core_subjects: ["Operating Systems (OS)", "DBMS", "OOPS"], 
             languages: ["C++", "JavaScript", "Python", "Java", "SQL"],
-            versionControl: ["Git", "GitHub"]
+            versionControl: ["Git", "GitHub","DockerHub"]
         },
         
         motto: "Solve. Code.  Learn. Scale.",
